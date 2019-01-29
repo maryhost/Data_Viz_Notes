@@ -1,0 +1,1 @@
+Hello1. Help people to understand and get info from data ASAP.2. Data analysis3. Present information to business users4. Data management5. A connection between back end and front end
